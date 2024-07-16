@@ -61,4 +61,4 @@ Academic Services
 ======
 I serve as Reviewer for NeurIPS 2022-2024, ICLR 2023-2024, ICML 2023-2024, CVPR 2024, SIGKDD 2023.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=715ZHhyE2wHHimDaEks8OqeVyHG54QoEpMru5s4xrYE&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=715ZHhyE2wHHimDaEks8OqeVyHG54QoEpMru5s4xrYE'></script>
