@@ -14,10 +14,10 @@ I am always open for collaboration opportunities and please feel free to contact
 
 Recent News
 ======
-- May 2024: One paper is accepted to **ICML 2024**.
-- Feb 2024: One paper is accepted to **CVPR 2024**. Congrats to Hao Xiong!
-- Jan 2024: Two papers are accepted by **ICLR 2024**, one of which is accepted as a **spotlight** (top 5%).
-- Sep 2022: One paper is accepted to **NeurIPS 2022**.
+- May 2024: One paper is accepted to **ICML**.
+- Feb 2024: One paper is accepted to **CVPR**. Congrats to Hao Xiong!
+- Jan 2024: Two papers are accepted by **ICLR**, one of which is accepted as a **spotlight** (top 5%).
+- Sep 2022: One paper is accepted to **NeurIPS**.
 
 
 Education
