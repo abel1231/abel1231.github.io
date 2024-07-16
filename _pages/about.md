@@ -16,7 +16,7 @@ Recent News
 ======
 - May 2024: One paper is accepted to **ICML 2024**.
 - Feb 2024: One paper is accepted to **CVPR 2024**. Congrats to Hao Xiong!
-- Jan 2024: Two papers are accepted by **ICLR 2024**, one of which is accepted as a :sparkles:**Spotlight** (top 5%).
+- Jan 2024: Two papers are accepted by **ICLR 2024**, one of which is accepted as a **Spotlight** (top 5%).
 - Sep 2022: One paper is accepted to **NeurIPS 2022**.
 
 
@@ -38,11 +38,11 @@ Publications
 
 1. *Node2ket: Efficient High-Dimensional Network Embedding in Quantum Hilbert Space* <br>
 Hao Xiong, **Yehui Tang**, Yunlin He, Wei Tan, Junchi Yan.<br>
-*ICLR (2024).* [<a href="https://openreview.net/forum?id=lROh08eK6n" target="_blank">PDF</a>]
+*ICLR (2024).* [<a href="https://openreview.net/forum?id=lROh08eK6n" target="_blank">PDF</a>] [<a href="https://github.com/ShawXh/node2ket" target="_blank">Code</a>]
 
 1. *Circuit Design and Efficient Simulation of Quantum Inner Product and Empirical Studies of Its Effect on Near-Term Hybrid Quantum-Classic Machine Learning* <br>
-Hao Xiong<sup>$\dagger$</sup>, **Yehui Tang**<sup>$\dagger$</sup> (co-first author), Xinyu Ye<sup>$\dagger$</sup>, Junchi Yan.<br>
-*CVPR (2024).* [<a href="https://openaccess.thecvf.com/content/CVPR2024/html/Xiong_Circuit_Design_and_Efficient_Simulation_of_Quantum_Inner_Product_and_CVPR_2024_paper.html" target="_blank">PDF</a>]
+Hao Xiong<sup>\\(\dagger\\)</sup>, **Yehui Tang**<sup>\\(\dagger\\)</sup> (co-first author), Xinyu Ye<sup>\\(\dagger\\)</sup>, Junchi Yan.<br>
+*CVPR (2024).* [<a href="https://openaccess.thecvf.com/content/CVPR2024/html/Xiong_Circuit_Design_and_Efficient_Simulation_of_Quantum_Inner_Product_and_CVPR_2024_paper.html" target="_blank">PDF</a>] [<a href="https://github.com/ShawXh/qip_cvpr24" target="_blank">Code</a>]
 
 1. *Recent Progress and Perspectives on Quantum Computing for Finance* <br>
 **Yehui Tang**, Junchi Yan, Guoqiang Hu, Baohua Zhang, Jinzan Zhou.<br>
@@ -50,15 +50,11 @@ Hao Xiong<sup>$\dagger$</sup>, **Yehui Tang**<sup>$\dagger$</sup> (co-first auth
 
 1. *GraphQNTK: Quantum Neural Tangent Kernel for Graph Data* <br>
 **Yehui Tang**, Junchi Yan.<br>
-*NeurIPS (2022).* [<a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/285b06e0dd856f20591b0a5beb954151-Abstract-Conference.html" target="_blank">PDF</a>]
+*NeurIPS (2022).* [<a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/285b06e0dd856f20591b0a5beb954151-Abstract-Conference.html" target="_blank">PDF</a>] [<a href="https://github.com/abel1231/graphQNTK" target="_blank">Code</a>]
 
 1. *Towards a Native Quantum Paradigm for Graph Representation Learning: A Sampling-based Recurrent Embedding Approach* <br>
 Ge Yan, **Yehui Tang**, Junchi Yan.<br>
 *SIGKDD (2022).* [<a href="https://dl.acm.org/doi/abs/10.1145/3534678.3539327" target="_blank">PDF</a>]
-
-1. *GraphQNTK: Quantum Neural Tangent Kernel for Graph Data* <br>
-**Yehui Tang**, Junchi Yan.<br>
-*NeurIPS (2022).* [<a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/285b06e0dd856f20591b0a5beb954151-Paper-Conference.pdf" target="_blank">PDF</a>]
 
 
 Academic Services
