@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Computer Science & Engineering (CSE) at Shanghai Jiao Tong University (SJTU), advised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/). Prior to this, I received my bachelor's degree from Shandong University (SDU). My research topics include graph neural networks and generative models. Specifically, I am iterested in developing robust learning systems of quantum many-body physics.
+I am a PhD candidate in Computer Science & Engineering (CSE) at Shanghai Jiao Tong University (SJTU), advised by [Prof. Junchi Yan](https://thinklab.sjtu.edu.cn/). Prior to this, I received my bachelor's degree from Shandong University (SDU). My research topics include graph neural networks and generative models. Specifically, I am interested in developing robust learning systems of quantum many-body physics.
 
 I am always open for collaboration opportunities and please feel free to contact me via email: yehuitang@sjtu.edu.cn
 
@@ -16,14 +16,14 @@ Recent News
 ======
 - May 2024: One paper is accepted to **ICML 2024**.
 - Feb 2024: One paper is accepted to **CVPR 2024**. Congrats to Hao Xiong!
-- Jan 2024: Two papers are accepted by **ICLR 2024**, one of which is accepted as a **Spotlight** (top 5%).
+- Jan 2024: Two papers are accepted by **ICLR 2024**, one of which is accepted as a **spotlight** (top 5%).
 - Sep 2022: One paper is accepted to **NeurIPS 2022**.
 
 
 Education
 ======
 - B.S. in School of Control Science and Engineering, Shandong University, 2016-2020.
-- Ph.D in Department of Computer Science and Engineering, Shanghai Jiao Tong University 2020-Present.
+- Ph.D in Department of Computer Science and Engineering, Shanghai Jiao Tong University, 2020-Present.
 
 
 Publications
@@ -59,4 +59,4 @@ Ge Yan, **Yehui Tang**, Junchi Yan.<br>
 
 Academic Services
 ======
-I serve as Reviewer for NeurIPS 2022-2024, ICLR 2023-2024, ICML 2023-2024, CVPR2024, SIGKDD 2023.
+I serve as Reviewer for NeurIPS 2022-2024, ICLR 2023-2024, ICML 2023-2024, CVPR 2024, SIGKDD 2023.
