@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
 
 Hello! I'm Yehui Tang (唐叶辉).
 
@@ -16,7 +15,7 @@ I'm a PhD candidate in Computer Science & Engineering (CSE) at Shanghai Jiao Ton
 I am always open for collaboration opportunities and please feel free to contact me via email: yehuitang@sjtu.edu.cn
 
 
-# 🔥 Recent News
+🔥 Recent News
 ======
 - ![new paper](/images/new.gif) [*2025.01*]: One paper is accepted to **ICLR**.
 - [*2024.05*]: One paper is accepted to **ICML**.
@@ -24,7 +23,7 @@ I am always open for collaboration opportunities and please feel free to contact
 - [*2024.01*]: Two papers are accepted by **ICLR**, one of which is accepted as a **spotlight** (top 5%).
 - [*2022.09*]: One paper is accepted to **NeurIPS**.
 
-# 💻 Publications
+💻 Publications
 ======
 ### 📒 Topic: Efficiently Adapt Deep Learning Models to Solving Quantum Many-body Problems
 1. *QuaDiM: A Conditional Diffusion Model For Quantum State Property Estimation* <br>
@@ -77,17 +76,17 @@ Nianzu Yang, Pandeng Li, Liming Zhao, Yang Li, Chen-Wei Xie, **Yehui Tang**, Xud
 *Arxiv (2022).* [<a href="https://arxiv.org/abs/2202.09506" target="_blank">PDF</a>]
 
 
-# 🗞️ Academic Services
+🗞️ Academic Services
 ======
 - PC Member & Conference Reviewer: ICML 2025/2024/2023, ICLR 2025/2024/2023, NeurIPS 2024/2023/2022, CVPR 2024, AAAI 2025, ICCV 2025, SIGKDD 2023
 I serve as Reviewer for NeurIPS 2022-2024, ICLR 2023-2024, ICML 2023-2024, CVPR 2024, SIGKDD 2023.
 
-# 📄 Patents
+📄 Patents
 ======
 - CN202111525730.X [基于量子算法的交易网络拉普拉斯特征映射方法](https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNDExMjIxNjU4MjISE0NOMjAyMTExNTI1NzMwLlhfc3EaCHFsenFjaGdy)       
 **<u>Yehui Tang</u>**, Junchi Yan.
 
-# 📖 Educations
+📖 Educations
 ======
 - *2020 - now*, PhD, Shanghai Jiao Tong University, Shanghai, China
 - *2016 - 2020*, Undergraduate, Shandong University, Jinan, China
