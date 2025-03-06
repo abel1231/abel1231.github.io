@@ -17,11 +17,11 @@ I am always open for collaboration opportunities and please feel free to contact
 
 🔥 Recent News
 ======
-- ![new paper](/images/new.gif) [*2025.01*]: One paper is accepted to **ICLR**.
-- [*2024.05*]: One paper is accepted to **ICML**.
-- [*2024.02*]: One paper is accepted to **CVPR**. Congrats to Hao Xiong!
-- [*2024.01*]: Two papers are accepted by **ICLR**, one of which is accepted as a **spotlight** (top 5%).
-- [*2022.09*]: One paper is accepted to **NeurIPS**.
+- 👏 [**2025.01**]: One paper is accepted to **ICLR**.
+- [**2024.05**]: One paper is accepted to **ICML**.
+- [**2024.02**]: One paper is accepted to **CVPR**. Congrats to Hao Xiong!
+- [**2024.01**]: Two papers are accepted by **ICLR**, one of which is accepted as a **spotlight** (top 5%).
+- [**2022.09**]: One paper is accepted to **NeurIPS**.
 
 💻 Publications
 ======
@@ -79,12 +79,11 @@ Nianzu Yang, Pandeng Li, Liming Zhao, Yang Li, Chen-Wei Xie, **Yehui Tang**, Xud
 🗞️ Academic Services
 ======
 - PC Member & Conference Reviewer: ICML 2025/2024/2023, ICLR 2025/2024/2023, NeurIPS 2024/2023/2022, CVPR 2024, AAAI 2025, ICCV 2025, SIGKDD 2023
-I serve as Reviewer for NeurIPS 2022-2024, ICLR 2023-2024, ICML 2023-2024, CVPR 2024, SIGKDD 2023.
 
 📄 Patents
 ======
 - CN202111525730.X [基于量子算法的交易网络拉普拉斯特征映射方法](https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNDExMjIxNjU4MjISE0NOMjAyMTExNTI1NzMwLlhfc3EaCHFsenFjaGdy)       
-**<u>Yehui Tang</u>**, Junchi Yan.
+**Yehui Tang**, Junchi Yan.
 
 📖 Educations
 ======
