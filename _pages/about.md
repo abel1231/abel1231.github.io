@@ -25,7 +25,7 @@ I am always open for collaboration opportunities and please feel free to contact
 
 💻 Publications
 ======
-### 📒 Topic: Efficiently Adapt Deep Learning Models to Solving Quantum Many-body Problems
+### 📒 Topic: Efficiently Adapt Deep Learning Models to Solve Quantum Many-body Problems
 1. *QuaDiM: A Conditional Diffusion Model For Quantum State Property Estimation* <br>
 **Yehui Tang**, Mabiao Long, Junchi Yan.<br>
 *ICLR (2025).* [<a href="https://openreview.net/forum?id=P7f55HQtV8" target="_blank">PDF</a>]
