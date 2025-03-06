@@ -1,7 +1,8 @@
 # main links links
 main:
-  - title: "Education"
-    url: /#education
+  
+  - title: "Recent News"
+    url: /#recent-news
 
   - title: "Publications"
     url: /#publications
@@ -11,6 +12,12 @@ main:
 
   - title: "Academic Services"
     url: /#academic-services
+
+  - title: "Patents"
+    url: /#patents
+
+  - title: "Education"
+    url: /#education
 
   # - title: "CV"
   #   url: /cv/

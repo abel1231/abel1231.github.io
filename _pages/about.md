@@ -17,11 +17,11 @@ I am always open for collaboration opportunities and please feel free to contact
 
 🔥 Recent News
 ======
-- 👏 [**2025.01**]: One paper is accepted to **ICLR**.
-- [**2024.05**]: One paper is accepted to **ICML**.
-- [**2024.02**]: One paper is accepted to **CVPR**. Congrats to Hao Xiong!
-- [**2024.01**]: Two papers are accepted by **ICLR**, one of which is accepted as a **spotlight** (top 5%).
-- [**2022.09**]: One paper is accepted to **NeurIPS**.
+- **[2025.01]**: One paper is accepted to **ICLR**.
+- **[2024.05]**: One paper is accepted to **ICML**.
+- **[2024.02]**: One paper is accepted to **CVPR**. Congrats to Hao Xiong!
+- **[2024.01]**: Two papers are accepted by **ICLR**, one of which is accepted as a **spotlight** (top 5%).
+- **[2022.09]**: One paper is accepted to **NeurIPS**.
 
 💻 Publications
 ======
